@@ -9,7 +9,7 @@ In fact, the implementation mainly refers to the paper "Unleashing Transformers:
 
 I left out many details in order to highlight the main principles. The transformer in the original text is also replaced by a simple CNN
 
-At present, the model can stably generate mnist images, but the disadvantage is that the richness of generated images is insufficient. It's not clear why.
+At present, the model can stably generate mnist and fashionmnist images, but the disadvantage is that the richness of generated images is insufficient. It's not clear why.
 
 Replacing the CNN with a more complex structure and making the noise addition process more reasonable might solve this problem
 
