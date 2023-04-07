@@ -14,3 +14,5 @@ At present, the model can stably generate mnist images, but the disadvantage is 
 Replacing the CNN with a more complex structure and making the noise addition process more reasonable might solve this problem
 
 For a more detailed implementation, please study the source code of the article: https://github.com/samb-t/unleashing-transformers
+
+In addition, I also refer to https://github.com/cloneofsimo/minDiffusion
