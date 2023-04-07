@@ -15,4 +15,4 @@ Replacing the CNN with a more complex structure and making the noise addition pr
 
 For a more detailed implementation, please study the source code of the article: https://github.com/samb-t/unleashing-transformers
 
-In addition, I also refer to https://github.com/cloneofsimo/minDiffusion
+In addition, I also refer to https://github.com/cloneofsimo/minDiffusion and https://github.com/xiaohu2015/nngen
