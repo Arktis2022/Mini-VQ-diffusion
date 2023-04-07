@@ -1,4 +1,4 @@
-# mini-vq-diffusion
+# MINI Vector-Quantized Discrete Absorbing Diffusion
 Minimalist implementation of Vector-Quantized Discrete Absorbing Diffusion
 
 The goal of this educational repository is to provide a self-contained, minimalistic implementation of Vector-Quantized Discrete Absorbing Diffusion using Pytorch.
